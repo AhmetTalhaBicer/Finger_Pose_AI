@@ -1,8 +1,15 @@
-# React + Vite
+# Finger_Pose_AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Artificial intelligence-supported finger pose detection application created using React and Tensorflow
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the live project [here](https://finger-pose-ai-atb.vercel.app/).
+
+## Technologies Used
+
+- React
+- Tensorflow.js
+- React Webcam
+- HTML5 Canvas
+- CSS3
